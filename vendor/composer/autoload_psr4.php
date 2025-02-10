@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'PalashWpDev\\MySimplePackage\\' => array($baseDir . '/src'),
+    'SimplePackage\\' => array($baseDir . '/src'),
 );
