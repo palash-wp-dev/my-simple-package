@@ -1,0 +1,19 @@
+{
+    "name": "palash-wp-dev/my-simple-package",
+    "description": "A simple package for demonstration.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PalashWpDev\\MySimplePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "palash-wp-dev",
+            "email": "raps.palash.840@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
